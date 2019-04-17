@@ -56,5 +56,5 @@ python basic_models.py --data data-nobatch.h5 --ngram 5
 
 ### CNN
 
-The CNN code can be run on PyTorch
+The CNN code can be run on Tensorflow
 
